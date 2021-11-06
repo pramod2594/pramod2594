@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Working on Computer Vision
 - 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on Image Processing 
+- 👯 I’m looking to collaborate on Image Processing related works
 - 🤔 I’m looking for help with Medical Imaging
 - 📫 How to reach me: 
 - 😄 Pronouns: Pramod
